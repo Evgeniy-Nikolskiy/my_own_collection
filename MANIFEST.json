@@ -1,0 +1,30 @@
+{
+ "collection_info": {
+  "namespace": "netology",
+  "name": "files",
+  "version": "1.0.0",
+  "authors": [
+   "Evgeniy Nikolskiy"
+  ],
+  "readme": "README.md",
+  "tags": [],
+  "description": "my first collection",
+  "license": [
+   "GPL-2.0-or-later"
+  ],
+  "license_file": null,
+  "dependencies": {},
+  "repository": "http://example.com/repository",
+  "documentation": "http://docs.example.com",
+  "homepage": "http://example.com",
+  "issues": "http://example.com/issue/tracker"
+ },
+ "file_manifest_file": {
+  "name": "FILES.json",
+  "ftype": "file",
+  "chksum_type": "sha256",
+  "chksum_sha256": "39b917a53b1bdd22c4680de59a708bfb1967f892279af45389b8d26f824fec2e",
+  "format": 1
+ },
+ "format": 1
+}
