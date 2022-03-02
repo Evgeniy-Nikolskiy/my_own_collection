@@ -1,0 +1,8 @@
+---
+- name: start role file create
+  hosts: all
+  collections:
+    - netology.files
+
+  roles:
+    - role: file-role
